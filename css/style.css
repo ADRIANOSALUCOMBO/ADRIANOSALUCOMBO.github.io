@@ -1,0 +1,262 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+header {
+    background-color: #2C3E50;
+    color: #f4f4f4;
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    list-style: none;
+}
+
+header {
+    background-color: #2C3E50;
+    color: #f4f4f4;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+
+main ul {
+    list-style-type: none;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+main {
+
+    padding: 60px 50px;
+    background-color: #f4f7f9;
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+header nav ul {
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #f4f4f4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+    color: #1abc9c;
+}
+
+#sobre-mim img {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #1abc9c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#educacao table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #f4f4f4;
+}
+
+#educacao th,
+#educacao td {
+    padding: 10px;
+    border: 1px solid #f4f4f4;
+    text-align: left;
+}
+
+#educacao th {
+    background-color: #2980B9;
+    color: #f4f4f4;
+}
+
+
+
+
+h3 {
+
+    color: #2980B9;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+main h2 {
+    border-bottom: solid 2px #1abc9c;
+    color: #1abc9c;
+    margin: 20px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+#competencias ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#glossario dl dt {
+    font-weight: bold;
+    color: #2C3E50;
+}
+
+#glossario dl dd {
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #2C3E50;
+    color: #f4f4f4;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+}
+
+footer a {
+    color: #1ABC9C;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a {
+    color: #2980B9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
